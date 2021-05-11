@@ -1,1 +1,2 @@
 One of the main functions of an OS is to manage the computer's resources(hardware). This includes the central processing unit(CPU), system memory(RAM), disk drives(HDD/SSD), and printers. This can also include any plug and play devices connected to the computer such as a gamepad or keyboard and mouse.
+Another function of an OS is to create the graphic user interface(GUI). Thisa allows the user to navigate the system and use/install programs on it. Modern GUI are relatively easy to use and don't require input commands like with PCs in the past (such as MS-DOS)
